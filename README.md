@@ -1,1 +1,3 @@
-I wrote this code to query and analyze sales data for individual skus for an eCommerce company
+To identify which product categories to prioritize for marketing, I conducted a multi-layered analysis using SQL and Python. I began by pulling weekly SKU-level sales and stock data—capturing Gross Merchandise Value (GMV), orders, and stock availability, for electronics categories such as Mobiles & Tablets, Home Appliances, and Computers. Using pivot tables and visualizations, I evaluated GMV, Gross Order Sold (GOS), and calculated Average Order Value (AOV) across subcategories and sellers to identify top-performing segments.
+
+Additionally, I integrated traffic data, pulling category-wise impressions, to calculate conversion rates by combining it with sales performance. This helped uncover which categories not only attracted the most traffic but also converted most efficiently. Together, these insights provided a clear direction for targeted marketing investments.
